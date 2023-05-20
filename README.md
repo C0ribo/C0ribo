@@ -1,16 +1,21 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=rounded&color=0:e6e6fa,100:fff0f5&height=100&animation=FadeIn&section=footer&text=Hi,I'mC0ribo🌷&fontAlign=50&fontColor=808080)
 
-<!--
-**C0ribo/C0ribo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<!-- gmail, twitter, blog icons -->
+<p align="center">
+  <a href="https://twitter.com/peachpeng25"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/>
+  <a href="mailto:dmsry1022@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  <a href="https://c0ribo-fedev-blog.netlify.app"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/>
+</p>
+  
+<!-- stack icons  -->
+<h2 align="center">🛠️Tech Stack🛠️</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
+</p>
+  
+<br/>
+<!-- GitHub-readme-stats  -->
