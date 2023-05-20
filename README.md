@@ -18,4 +18,9 @@
 </p>
   
 <br/>
+    
 <!-- GitHub-readme-stats  -->
+<div align="center">
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=C0ribo&show_icons=true&theme=buefy)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0ribo&layout=compact&theme=buefy)
+</div>
