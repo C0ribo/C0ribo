@@ -20,7 +20,15 @@
 <br/>
     
 <!-- GitHub-readme-stats  -->
+<!-- (오류) -->
+<!--   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=C0ribo&show_icons=true&theme=buefy)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0ribo&layout=compact&theme=buefy) -->
+
 <div align="center">
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=C0ribo&show_icons=true&theme=buefy)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0ribo&layout=compact&theme=buefy)
+  <img src="https://github-readme-stats.vercel.app/api?username=C0ribo&show_icons=true&theme=buefy">
+  </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0ribo&layout=compact&theme=buefy">
 </div>
+    
+
+    
