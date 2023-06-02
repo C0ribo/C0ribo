@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=0:e6e6fa,100:fff0f5&height=100&animation=FadeIn&section=footer&text=Chae Eun Kyo🌷&fontAlign=50&fontColor=808080)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=0:e6e6fa,100:fff0f5&height=100&animation=FadeIn&section=footer&text=Chae_Eun_Kyo🌷&fontAlign=50&fontColor=808080)
 
 <br/>
 
