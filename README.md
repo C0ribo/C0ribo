@@ -1,34 +1,26 @@
 # CHAE EUN KYO
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FC0ribo&count_bg=%23420279&title_bg=%23BEA7E6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <div align = " center ">
   <img src="https://github-readme-stats.vercel.app/api?username=C0ribo&show_icons=true&theme=buefy">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0ribo&layout=compact&theme=buefy">
 </div>
 
-<p align = "center">
-  [![Solved.ac
-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cowldbs1022)](https://solved.ac/cowldbs1022)
-</p>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cowldbs1022)](https://solved.ac/cowldbs1022)
 
-<!-- gmail, twitter, blog icons -->
-<p align="center">
-  <a href="https://twitter.com/peachpeng25"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/>
-  <a href="mailto:dmsry1022@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-  <a href="https://c0ribo-fedev-blog.netlify.app"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/>
-</p>
-  
-<!-- stack icons  -->
-<h2 align="center">🛠️Tech Stack🛠️</h2>
+# Skills
+## Language
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
-</p>
-  
-<br/>
-    
-<!-- GitHub-readme-stats  -->
-<!-- (오류) -->
-<!--   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=C0ribo&show_icons=true&theme=buefy)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0ribo&layout=compact&theme=buefy) -->
+## Tools
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
+# blog
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?&style=for-the-badge&logo=Netlify&logoColor=white)
+
+# Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dmsry1022@gmail.com)](mailto:dmsry1022@gmail.com)
