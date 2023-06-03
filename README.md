@@ -1,6 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=0:e6e6fa,100:fff0f5&height=100&animation=FadeIn&section=footer&text=Chae_Eun_Kyo🌷&fontAlign=50&fontColor=808080)
+# CHAE EUN KYO
 
-<br/>
+<div align = " center ">
+  <img src="https://github-readme-stats.vercel.app/api?username=C0ribo&show_icons=true&theme=buefy">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0ribo&layout=compact&theme=buefy">
+</div>
+
+<p align = "center">
+  [![Solved.ac
+Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cowldbs1022)](https://solved.ac/cowldbs1022)
+</p>
 
 <!-- gmail, twitter, blog icons -->
 <p align="center">
@@ -24,11 +32,3 @@
 <!--   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=C0ribo&show_icons=true&theme=buefy)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0ribo&layout=compact&theme=buefy) -->
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=C0ribo&show_icons=true&theme=buefy">
-  </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0ribo&layout=compact&theme=buefy">
-</div>
-    
-
-    
