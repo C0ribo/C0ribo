@@ -2,9 +2,11 @@
   
   ![header](https://capsule-render.vercel.app/api?type=slice&color=45615c&height=200&section=header&text=코리%20cori&fontSize=50&fontAlign=85&rotate=-347&fontAlignY=40&fontColor=FFFFFF&animation=fadeIn)
   
-  ## 👩🏻‍💻 즐기는 백엔드 개발자를 꿈꾸며 공부합니다.
+  ## 👩🏻‍💻 즐거운 백엔드 개발자를 꿈꾸며 공부합니다.
   
   <br/>
+
+  스스로를 올려치기하지마라
   
   <br/>
   
