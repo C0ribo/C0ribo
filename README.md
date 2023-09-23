@@ -2,22 +2,19 @@
   
   ![header](https://capsule-render.vercel.app/api?type=slice&color=45615c&height=200&section=header&text=코리%20cori&fontSize=50&fontAlign=85&rotate=-347&fontAlignY=40&fontColor=FFFFFF&animation=fadeIn)
   
-  ## 👩🏻‍💻 즐거운 백엔드 개발자를 꿈꾸며 공부합니다.
-  
-  <br/>
-
-  늦은만큼 열심히 합니다.😁
-  
-  <br/>
   
   
   ## 💻 기술 스택
+
+  ### 🗣️ Language
+  
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
   ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
 
-  ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+  ### ⚙️ Tool
+  
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20idea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 
